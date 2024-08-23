@@ -1,0 +1,18 @@
+{
+    "type": "shokudo:shokudo",
+    "generator": {
+        "type": "flat",
+        "settings": {
+            "biome": "plains",
+            "lakes": false,
+            "features": false,
+            "layers": [
+                {
+                    "block": "air",
+                    "height": 1
+                }
+            ],
+            "structure_overrides": "shokudo:shokudo_structures"
+        }
+    }
+}

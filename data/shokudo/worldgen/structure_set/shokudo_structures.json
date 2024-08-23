@@ -1,0 +1,17 @@
+{
+    "structures": [
+        {
+            "structure": "shokudo:restaurant",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:concentric_rings",
+        "salt": 10247,
+        "frequency": 1,
+        "distance": 1,
+        "spread": 1,
+        "count": 1,
+        "preferred_biomes": "minecraft:plains"
+    }
+}
